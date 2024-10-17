@@ -7,3 +7,6 @@ npm install react-bootstrap bootstrap react-router-dom react-redux @reduxjs/tool
    1. styling imports
    2. react router dom [/]
    3. redux toolkit [/]
+
+   edit by shaimaa
+   
